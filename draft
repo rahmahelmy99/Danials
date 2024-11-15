@@ -1,0 +1,68 @@
+/* @keyframs typeInfo{
+    0%{content: " L|";}
+    1.5%{content: " La|";}
+    3%{content: " Lar|";}
+    4.5%{content: " Larr|";}
+    6%{content: " Larry|";}
+    7.5%{content: " Larry |";}
+    9%{content: " Larry D|";}
+    10.5%{content: " Larry Da|";}
+    12%{content: " Larry Dan|";}
+    13.5%{content: " Larry Dani|";} 
+    15%{content: " Larry Danie|";} 
+    16.5%{content: " Larry Daniel|";} 
+    18%{content: " Larry Daniels|";} 
+    19.5%{content: " Larry Daniels|";} 
+    21%{content: " Larry Daniel|";} 
+    22.5%{content: " Larry Danie|";} 
+    24%{content: " Larry Dani|";} 
+    25.5%{content: " Larry Dan|";} 
+    27%{content: " Larry Da|";} 
+    28.5%{content: " Larry D|";} 
+    30%{content: " Larry |";} 
+    31.5%{content: " Larry|";}
+    33%{content: " Larr|";} 
+    34.5%{content: " Lar|";} 
+    36%{content: " La|";} 
+    37.5%{content: " L|";} 
+    39%{content: " |";} 
+    40.5%{content: "|";} 
+    42%{content: " D|";} 
+    43.5%{content: " De|";} 
+    45%{content: " Dev|";} 
+    64.5%{content: " Deve|";} 
+    48%{content: " Devel|";} 
+    49.5%{content: " Develo|";} 
+    51%{content: " Develop|";} 
+    52.5%{content: " Develope|";} 
+    54%{content: " Developer|";}
+    55.5%{content: " Developer|";}
+    57%{content: " Developer|";}
+    58.5%{content: " Develope|";} 
+    60%{content: " Develop|";} 
+    61.5%{content: " Develo|";} 
+    63%{content: " Devel|";} 
+    64.5%{content: " Deve|";}
+    66%{content: " Dev|";} 
+    67.5%{content: " De|";} 
+    69%{content: " D|";} 
+    70.5%{content: " D|";} 
+    72%{content: " De|";}
+    73.5%{content: " Des|";} 
+    75%{content: " Desi|";} 
+    76.5%{content: " Desig|";} 
+    78%{content: " Design|";} 
+    79.5%{content: " Designe|";}
+    81%{content: " Designer|";}
+    82.5%{content: " Designer|";}
+    84%{content: " Designer|";}
+    85.5%{content: " Designe|";}
+    87%{content: " Design|";}
+    88.5%{content: " Desig|";}
+    90%{content: " Desi|";}
+    91.5%{content: " Des|";}
+    93%{content: " De|";}
+    94.5%{content: " D|";}
+    95%{content: " |";}
+    96.5%{content: "|";}
+} */
